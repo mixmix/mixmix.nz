@@ -8,26 +8,22 @@
 #newtab = true
 
 [[social]]
+identifier = "gitlab"
+name = "a) GitLab"
+url = "https://gitlab.com/mixmix"
+  [social.params]
+  icon = "brand-gitlab"
+
+[[social]]
 identifier = "github"
-name = "GitHub"
+name = "b) GitHub"
 url = "https://github.com/mixmix"
+  [social.params]
+  icon = "brand-github"
 
-[social.params]
-icon = "brand-github"
-
-# [[social]]
-# identifier = "gitlab"
-# name = "GitLab"
-# url = "https://gitlab.com/mixmix"
-
-# [social.params]
-# icon = "brand-gitlab"
-
-
-# [[social]]
-# identifier = "twitter"
-# name = "Twitter"
-# url = "https://twitter.com"
-
-# [social.params]
-# icon = "brand-twitter"
+[[social]]
+identifier = "bluesky"
+name = "c) BlueSky"
+url = "https://bsky.app/profile/mixmix.bsky.social"
+  [social.params]
+  icon = "brand-bluesky"
