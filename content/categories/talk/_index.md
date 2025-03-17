@@ -8,4 +8,9 @@ style:
     background: "#2a9d8f"
     color: "#fff"
 
+menu:
+    main: 
+        weight: 1
+        params:
+            icon: play
 ---
