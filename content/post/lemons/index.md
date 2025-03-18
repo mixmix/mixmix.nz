@@ -3,7 +3,7 @@ title: "Lemons 🍋🍋🍋"
 description: An approach to managing complexity capacity I use extensively in all domains of my life
 slug: lemons
 date: 2025-03-13 00:00:00+0000
-# image: cover.jpg
+image: cover.jpg
 categories:
     - patterns
 tags:
