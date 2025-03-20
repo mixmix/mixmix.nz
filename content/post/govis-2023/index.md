@@ -5,7 +5,7 @@ slug: govis-2023
 date: 2023-06-16 00:00:00+0000
 image: cover.png
 categories:
-    - talk
+    - talks
 tags:
     - Āhau 
     - Mātou

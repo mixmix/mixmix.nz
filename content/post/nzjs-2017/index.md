@@ -5,7 +5,7 @@ slug: nzjs-17
 date: 2017-03-13 00:00:00+0000
 image: cover.png
 categories:
-    - talk
+    - talks
 tags:
     - Scuttlebutt
     - data-sovereignty

@@ -5,7 +5,7 @@ slug: fosdem-22
 date: 2022-02-05 00:00:00+0000
 image: cover.png
 categories:
-    - talk
+    - talks
 tags:
     - Āhau
     - Mātou
