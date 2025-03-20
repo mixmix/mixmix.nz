@@ -17,10 +17,11 @@ updated learnings._
 
 
 When I was a teacher I worked with this guy Pete Brailsford, who taught
-mountaineering, and would take students up into the snow and build snow caves to
+mountaineering. He'd take students up into the snow and build snow caves to
 sleep in overnight, cross rivers, stuff like that. A major part of the learning
-was about _managing risks_. The idea is that you can't control everything, but
-you can keep an eye on the probability field you're standing in.
+in that context was about _managing risks_. The idea is that you can't control
+everything, but you can keep an eye on the probability field you're standing
+in.
 
 ![Pete Brailsford Tramping](pete_tramping.jpeg)
 
@@ -30,20 +31,20 @@ and then the options spin and then they lock in like:
 # :cherries: :lemon: :cherries: :cherries: :green_apple:
 
 Normally if you get all cherries or something, it's a jackpot, but in this
-story, if you get a row of lemons, that's bad, like you got hypothermia and
-no-one knows where you are bad.
+story, if you get a row of lemons, that's bad, like _"you got hypothermia and
+no-one knows where you are"_ bad.
 
-So you can't control all the slots, but you can watch where you're at. We set
-out on our adventure, the slots are spinning, and you know what, someone in our
-group forgot their jacket _BOOM_ the first slot just came up:
+So you can't control all the slots, but you can watch where you're at. Say you
+set out on our adventure, the slots are spinning, and you know what, someone in
+our group forgot their jacket _BOOM_ the first slot just came up
 
 # :lemon: :white_large_square: :white_large_square: :white_large_square: :white_large_square:
 
-Ok it's a lemon, but no big deal, it's sunny as. We stop and have lunch, there's
-some clouds on the horizon, but it's _so warm_. Guess what you just missed a
-hint, and as you continue to walk it starts to rain and a wind pick up (being a
-small island in a massive ocean, weather can change _very_ quickly in nz) ...
-now you've got 2 lemons 
+Ok it's a lemon, but no big deal, it's sunny as. You stop and have lunch,
+there's some clouds on the horizon, but it's _so warm_. Guess what you just
+missed a hint, and as you continue to walk it starts to rain and a wind picks
+up (being a small island in a massive ocean, weather can change _very_ quickly
+in nz) ... now you've got 2 lemons
 
 # :lemon: :lemon: :white_large_square: :white_large_square: :white_large_square: 
 
@@ -56,7 +57,8 @@ with. So if you're in this position
 # :lemon: :lemon: :lemon: :lemon: :white_large_square:
 
 You're now playing a very high stakes games, where one more little lemon, like a
-sprained ankle could lead to a really bad situation.
+sprained ankle can tip you over into disaster.
+
 
 ## How to manage lemons
 
@@ -69,17 +71,17 @@ situtations evolve, asking yourself:
 Just having this self-reflective question in your toolbelt can change how you
 think and see. It can be really hard to spot them because they can often be
 innocuous in the context where they first present ... it's just _in concert_
-that it can contribute it's part to a real bad time. Asking this question out
-loud to yourself and your questing party can help you spot more of them early,
-as well as increase the liklihood you'll keep them in working memory (most
-humans suck at remembering many small factors).
+that the the real trouble manifests. Asking this question out loud to yourself
+and your questing party can help you spot more of them early, as well as
+increase the liklihood you'll keep them in working memory (most humans suck at
+remembering many small factors).
 
 
 If you spot yourself crossing 3-4 lemons, you should probably be starting to
 significantly re-asses your plans. Things like:
 - **abort**: ask yourself if your initial plan is still safe
 - **simplify**: consider cutting non-vital parts of your plan
-- **attention**: prepare to escalate faster if an additional lemons emerges
+- **alert**: increase new-lemon vigilance, prepare to escalate responses faster
 
 
 ## But mix, I'm not a mountaineer
@@ -89,7 +91,7 @@ voyaging into literal moutains, or sailing to Great Barrier Island, or you could
 be a distributed team building FOSS tools on a limited / no budget.
 
 Some lemons that have fucked up quests I've been on:
-- having no retrosepctives / process for iterating
+- having no retrosepctives (process for iterating, adaptation)
 - just trusting that everyone remembers the agreement we made _(contracts, pay,
   expectations)_
 - forgetting to ask how people are feeling
@@ -108,8 +110,8 @@ _holiday pay_ processes when you're a small company and you know everyone and
 you're doing it for love and there are so many things to do. You just need to
 acknowledge (and remember) that you're carrying a lemon, and if you then try to
 onboard someone new, you need to adjust your plan by either stopping to build
-that missing stuff, or communicating to the new person clearly about the known
-lemon.
+that missing stuff (unloading the lemon), or communicating to the new person
+clearly about the known lemon.
 
 
 ## Lemons in family systems

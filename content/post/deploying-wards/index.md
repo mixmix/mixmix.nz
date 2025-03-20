@@ -126,7 +126,7 @@ Retrospectives are all powerful everyday rituals.
 BUT, using more pagan language is a great ward, and it’s flavourful and fun!
 
 Other magic to watch out for : #invocation, smudging, crystals, alchemy, sun and
-moon apps, wizards (I told piet’s wedding he was a wizard - which I deifne as a
+moon apps, wizards (I told Piet’s wedding he was a wizard - which I define as a
 socially AND technically talented humyn)
 
 This isn’t an accident. I find magic really deeply evocative and playful. And a
