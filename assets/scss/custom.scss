@@ -2,19 +2,28 @@
     You can add your own custom styles here.
 */
 
-
-#main-menu {
-  --menu-icon-separation: 20px;
-
-  gap: 20px;
-}
-
-@media (min-width: 768px) {
+aside.sidebar {
   #main-menu {
-    margin-top: 30px;
+    @media (min-width: 768px) {
+      margin-top: 30px; /* above menu */
+    }
+    gap: 20px; /* btwn menu rows */
+
+    --menu-icon-separation: 20px; /* btwn icon + label */
   }
 }
 
-.article-content > ul {
-  margin-top: -1em;
+main {
+  min-height: 100vh;
+  @media (max-width: 768px) {
+    min-height: 75vh;
+  }
+
+  .article-content > ul {
+    margin-top: -1em;
+  }
+
+  footer {
+    margin-top: auto;
+  }
 }
