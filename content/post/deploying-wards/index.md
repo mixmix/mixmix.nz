@@ -107,8 +107,11 @@ yet clearly defined?
 Wear your nerddom like a badge, loudly, with pride. Great asshole detector, and
 you’d be surprised how many nerds there are out there lurking.
 
-<img src="ward_of_lights.jpeg" style="max-height: 468px" />
+<div style="padding: 0 var(--card-padding)">
 
+  ![](ward_of_lights.jpeg) ![](teferis_protection.jpg)
+
+</div>
 
 ## Magic/ mysticism as a ward
 
