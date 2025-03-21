@@ -13,43 +13,43 @@ tags:
 weight: 1
 ---
 
-_Although this pattern emerged through that challenges of parenting, I still find
+_Although this pattern emerged through the challenges of parenting, I still find
 it really useful wherever there is high variability / unknowns in coordination._
 
 
 ## Planning with ~~kids~~ _chaos_
 
-When I had kids, organising hang outs went from pretty simple to something much
-more unstable. For example "let's meet at the zoo at 2pm"... seems easy enough,
-but then toddlers don't necessarily sleep on an exact schedule, and there is a
-greater than zero chance someone could spew in the car on the way there.
-Multiply these unknowns by the number of participants and it can be pretty easy
-for plans to only semi-align, or just totally bomb.
+When I had kids, organising hang-outs went from pretty simple to something much
+more unstable. For example _"let's meet at the zoo at 2pm"_... sounds easy
+enough, but then toddlers don't necessarily sleep on an exact schedule, and
+there is a greater than zero chance someone could spew in the car on the way
+there. Multiply these unknowns by the number of participants and it can be
+pretty easy for plans to only semi-align, or totally bomb.
 
-This can generate feelings that range from _mild stess_ -- _am I waiting for X
-to arrive before we go into the zoo?_ -- through to a _total bummer_. Ah
-particularly painful failure mode is the "after bedtime hangout" where no
-children are present (read: **this is my time off**), then some kid need arises,
-you are wrenched back into duty, and your plans are cancelled. Deep
-expectation-reality whiplash.
+This can generate feelings that range from _mild stess_ (am I waiting for X to
+arrive before we go into the zoo?) through to _total bummer_ (I was really
+looking forward to an adult conversation). A particularly painful failure mode
+is the "after bedtime han-gout" where no children are present (read: **this is
+my time off**), where some kid need arises, you are wrenched back into duty, and
+your plans are cancelled. Deep expectation-reality whiplash.
 
-If your plans involved other people with limited resources, you're also carrying
-the cost to the group in mind -- e.g. their expectation-reality whiplash, the
-cost of having the try and re-schedule a hang out
+If your plans involved other people with limited resources, you're probably
+also carrying the cost to the group in mind e.g. their expectation-reality
+whiplash, and the cost of having the try to re-schedule a hang out.
 
 
 ## Decomposing the problem
 
-I noticed the crux of the pain for me was the sharp change in reality from
+I noticed the crux of the pain for me was the sharp divergence of reality from
 expectation. Why was this happening? I think because my internal narrative was
 too binary, that is only had two modes:
-- `hanging out` => :smile:
-- `no hangs` => :sob:.
+- `hangin out` ⇒ :smile:
+- `no hangs` ⇒ :sob:.
 
 What if we told a story which was more nuanced... reduce the surprise of the
 flip between these states. Could we take in all the variables, name and
-acknowledged the uncertainty, and built our story on that? Sounds like it might
-be too complex, but you've seen this pattern before => weather forecasts!
+acknowledged the uncertainty, and build our story on that? Sounds like it might
+be too complex, but you've seen this pattern before ⇒ weather forecasts!
 
 So I started experimenting with a friend I play
 [Magic](https://cubecobra.com/cube/list/peach?view=spoiler) with. Our
@@ -72,6 +72,7 @@ To a really smooth expectation ride:
 > **Mix** : ❤️‍🩹 No pressure this end<br />
 > **Mix** : ✨ Let me know if the stars align! Otherwise catch you another night
 
+
 ## Updated forecast
 
 One of the joys of this is that just like a weather forecast, your forecast of 
@@ -87,7 +88,7 @@ brief, even just "20%".
 
 Contrast this with trying to protect people from complexity (not wanting to
 prematurely complicate or worry), but then feeling pressure to offer apologies,
-and context **in the exact moment of some disaster unfolding** :-1:.
+AND explanation, AND **in the exact moment of some disaster unfolding** :-1:.
 
 
 ## Commitment + Context
