@@ -5,7 +5,8 @@ image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#D91656"
+    # src: https://colorhunt.co/palette/ffb200eb5b00d91656640d5f
     color: "#fff"
 
 menu:
